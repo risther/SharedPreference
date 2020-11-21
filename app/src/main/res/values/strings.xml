@@ -3,4 +3,15 @@
     <string name="checkbox">com.example.almacenamiento2.checkbox</string>
     <string name="name">com.example.almacenamiento2.usuario</string>
     <string name="password">com.example.almacenamiento2.clave</string>
+     <string name="size_font">com.example.lab09sharedpreferences.sizefont</string>
+    <string name="font">comexample.lab09sharedpreferences.font</string>
+    <string name="color">com.example.lab09sharedpreferences.color</string>
+    <string name="theme">com.example.lab09sharedpreferences.theme</string>
+    <string name="font_size">""</string>
+    <string name="test_text">Texto de Prueba</string>
+    <string name="change_color_app">Cambiar Color de la Aplicación</string>
+    <string name="font_type">Tipo de fuente:</string>
+    <string name="theme_app">"Tema de la App: "</string>
+
+
 </resources>
